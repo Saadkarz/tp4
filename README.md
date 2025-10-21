@@ -65,3 +65,11 @@ java test.Test
 ## Résultats
 Tous les tests passent avec succès, confirmant le bon fonctionnement des opérations CRUD et des requêtes Hibernate.
 
+## Screenshots
+
+<img width="1751" height="974" alt="image" src="https://github.com/user-attachments/assets/4ecba67a-df44-48ee-abbb-88fb18abb0e4" />
+<img width="1776" height="729" alt="image" src="https://github.com/user-attachments/assets/f10629a0-e744-4ad8-8094-4e1f47008833" />
+<img width="1776" height="729" alt="image" src="https://github.com/user-attachments/assets/da9c1ad6-813f-4fd8-a327-fb613ab4753c" />
+
+
+
